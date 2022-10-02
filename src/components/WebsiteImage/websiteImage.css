@@ -1,0 +1,22 @@
+.app__website-content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 3rem 0;
+}
+
+.app__website-image {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  color: white;
+}
+
+/* @media screen and (max-width: 768px) {
+  .app__website-content img {
+    height: 100px;
+    width: 100px;
+  }
+} */
